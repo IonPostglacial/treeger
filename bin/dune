@@ -1,0 +1,4 @@
+(executable
+ (public_name treeger)
+ (name main)
+ (libraries treeger))
